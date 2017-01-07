@@ -2,7 +2,7 @@
   "name": "bot3",
   "version": "1.0.0",
   "description": "A sample bot for getting started with Bot Framework",
-  "main": "hello.js",
+  "main": "server.js",
   "scripts": {
     "test": ""
   },
