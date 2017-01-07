@@ -1,0 +1,27 @@
+{
+  "name": "bot3",
+  "version": "1.0.0",
+  "description": "A sample bot for getting started with Bot Framework",
+  "main": "hello.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldiserglis/bo3.git"
+  },
+  "keywords": [
+    "botframework"
+  ],
+  "author": "Fuse Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aldiserglis/bot3/issues"
+  },
+  "homepage": "https://github.com/aldiserglis/bot3#readme",
+
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
